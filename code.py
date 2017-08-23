@@ -99,5 +99,5 @@ def catalan_generator():
     
 #7
 ### CREATE YOUR OWN FUNCTION. Make sure it has a nice docstring.
-# See http://www.pythonforbeginners.com/basics/python-docstrings
+# See https://www.python.org/dev/peps/pep-0257/
 # for basic tips on docstrings.
