@@ -1,0 +1,3 @@
+For #5: do you really need to store the entire Fibonacci sequence for this problem? (-2 points)
+
+** Score 33/35 **
